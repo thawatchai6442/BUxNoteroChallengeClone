@@ -1,3 +1,0 @@
-# BUxNoteroChallengeClone
-
-test des
